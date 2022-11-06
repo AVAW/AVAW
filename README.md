@@ -1,10 +1,14 @@
 # Hi. I'm Arek 👋
 
-## I'm a Developer
+## I'm a PHP Developer
 
 - 👀 I’m interested in Symfony
-- 🌱 I’m currently learning React
-- 🥅 2021 Goals: Finish my YouTube-Playlist project (Symfony + React)
+- 🌱 I’m currently learning Clean Architecture
 
-## I love new stuff
-- ⚡ I read a lot about new hardware
+## I love
+- ⚡ Reading about new hardware
+- 🏊 Swimming 
+- 🚴 Riding bike
+
+## My code
+- 🥅 Check my project [YouTube Playlist](https://github.com/AVAW/youtube-playlist) written in Symfony
